@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pogoda</string>
+    <string name="tytul">Pogoda na świecie</string>
+    <string name="inpt_hint">Wprowadź nazwę miasta</string>
+    <string name="input_text">Pobierz</string>
+    <string name="brak">Proszę wpisać nazwę miasta</string>
+</resources>
